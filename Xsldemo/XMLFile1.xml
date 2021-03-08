@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<catalog>
+  <cd>
+    <Title>Lake house</Title>
+    <Artist>tom</Artist>
+    <Country>England</Country>
+    <Price>15</Price>
+    <Year>1998</Year>
+  </cd>
+  <cd>
+    <Title>Lake house</Title>
+    <Artist>tom</Artist>
+    <Country>uk</Country>
+    <Price>15</Price>
+    <Year>1997</Year>
+  </cd>
+  <cd>
+    <Title>Lake house</Title>
+    <Artist>tom</Artist>
+    <Country>Usa</Country>
+    <Price>15</Price>
+    <Year>1998</Year>
+  </cd>
+  <cd>
+    <Title>Lake house</Title>
+    <Artist>tom</Artist>
+    <Country>England</Country>
+    <Price>87</Price>
+    <Year>1998</Year>
+  </cd>
+  <cd>
+    <Title>Lake house</Title>
+    <Artist>tom</Artist>
+    <Country>England</Country>
+    <Price>8</Price>
+    <Year>1998</Year>
+  </cd>
+  <cd>
+    <Title>Lake house</Title>
+    <Artist>tom</Artist>
+    <Country>England</Country>
+    <Price>15</Price>
+    <Year>1548</Year>
+  </cd>
+  <cd>
+    <Title>Lake house</Title>
+    <Artist>tom</Artist>
+    <Country>England</Country>
+    <Price>2</Price>
+    <Year>1998</Year>
+  </cd>
+</catalog>
